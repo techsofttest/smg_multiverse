@@ -11,7 +11,7 @@ const cabin = Cabin({
 });
 
 export const metadata: Metadata = {
-  title: "SCV Multiverse System LLC",
+  title: "SMG Multiverse System LLC",
   description: "Enterprise Heavy Engineering and Advanced Robotics",
 };
 

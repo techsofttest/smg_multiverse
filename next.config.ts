@@ -5,7 +5,7 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname: 'techsoftwebsolutions.com',
-        pathname: '/techsoft/demo/SCV/backend/public/uploads/**',
+        pathname: '/techsoft/demo/SMG_admin/public/uploads/**',
       },
     ],
 

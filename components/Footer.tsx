@@ -79,7 +79,7 @@ export default function Footer() {
                 {/* Bottom Bar: Copyright & Socials */}
                 <div className="flex flex-col md:flex-row justify-between items-center border-t border-gray-800 pt-8 gap-4">
                     <p className="text-gray-300 text-sm">
-                        © Copyright 2026 SCV Multiverse System LLC. All rights reserved.
+                        © Copyright 2026 SMG Multiverse System LLC. All rights reserved.
                     </p>
 
                             <a href="https://www.techsoftweb.com" target="_blank" className="text-gray-300 hover:text-[#0BC13E] transition-colors">

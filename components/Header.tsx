@@ -29,7 +29,7 @@ export default function Header() {
                     {/* Company Name & Nav */}
                     <div className="flex flex-col gap-1 md:gap-2">
                         <h1 className="text-xl md:text-3xl font-bold tracking-wide text-white uppercase leading-tight">
-                            SCV Multiverse System <span className="text-gray-400">LLC</span>
+                            SMG Multiverse System <span className="text-gray-400">LLC</span>
                         </h1>
 
                         {/* Gradient Line Divider */}
