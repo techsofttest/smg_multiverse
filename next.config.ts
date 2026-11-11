@@ -4,8 +4,13 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'techsoftwebsolutions.com',
-        pathname: '/techsoft/demo/SMG_admin/public/uploads/**',
+        hostname: 'admin.smgmultiverse.com',
+        pathname: '/uploads/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'smgmultiverse.com',
+        pathname: '/uploads/**',
       },
     ],
 
