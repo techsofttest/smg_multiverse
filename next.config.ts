@@ -2,6 +2,11 @@
 const nextConfig = {
   images: {
     remotePatterns: [
+        {
+        protocol: 'https',
+        hostname: 'techsoftwebsolutions.com',
+        pathname: '/techsoft/demo/SMG_admin/public/uploads/**',
+      },
       {
         protocol: 'https',
         hostname: 'admin.smgmultiverse.com',
